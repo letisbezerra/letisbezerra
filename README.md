@@ -11,8 +11,8 @@ I am currently a beginner, focusing my studies:
 
 * Python
 * Django
-* Data Analytics
-* BI
+* Backend
+  
 </p>
 
 <p align="left">
