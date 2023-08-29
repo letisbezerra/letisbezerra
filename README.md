@@ -10,8 +10,8 @@
 I am currently a beginner, focusing my studies:
 
 * Python
-* Django
-* Backend
+* SQL
+* Data Science
   
 </p>
 
