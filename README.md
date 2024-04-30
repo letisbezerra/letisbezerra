@@ -12,6 +12,7 @@ I am currently a beginner, focusing my studies:
 * Python
 * SQL
 * Data Science
+* Swift
   
 </p>
 
