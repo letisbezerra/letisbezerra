@@ -9,10 +9,10 @@
 <p align="left">
 I am currently a beginner, focusing my studies:
 
-* Python
-* SQL
-* Data Science
 * Swift
+* iOs
+* Data Science
+* Python
   
 </p>
 
