@@ -11,8 +11,9 @@ I am currently a beginner, focusing my studies:
 
 * Swift
 * iOs
-* Data Science
 * Python
+* Dev
+* ML/AI
   
 </p>
 
