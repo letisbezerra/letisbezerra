@@ -13,7 +13,7 @@ I am currently a beginner, focusing my studies:
 * iOs
 * Python
 * Dev
-* ML/AI
+* Mobile
   
 </p>
 
