@@ -1,27 +1,15 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer Illustration">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Hi, I'm Letícia Bezerra 👋
 
-<p align="left"> 
-  <h3><b>Hi there! Welcome to my Github 🐙</b></h3>
-  Feel free to explore my repos and maybe even contribute.
-</p>
+Backend Developer focused on Swift and Python, with solid hands-on experience and a strong interest in software development and data.
 
-<p align="left">
-I am currently a beginner, focusing my studies:
+## Focus areas:
+- Backend development  
+- Swift and iOS  
+- Python scripting and automation  
+- Data curiosity and continuous learning  
 
-* Swift
-* iOs
-* Python
-* Dev
-* Mobile
-  
-</p>
+Feel free to check out my projects and connect with me!
 
-<p align="left">
-  
-If you have some interesting project that you think I can help with, feel free to reach me through:
- 
-  <a href="https://www.linkedin.com/in/leticiabezerrag/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiabezerrag/" /></a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leticiabezerrag/)
